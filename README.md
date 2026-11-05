@@ -1,32 +1,29 @@
-# Mohammad Sabzian Molaei – Computational Biomedical Research Portfolio
+# Mohammad Sabzian Molaei, M.D.
 
-Medical doctor with experience in clinical research, computational biology, and data analysis.
+**Medical Research | Psychology | Statistical Analysis with R**
 
-## Skills
-- Python (data science, ML, NLP)
-- SPSS
-- Statistical analysis
-- Clinical research
+I am a medical doctor interested in psychology, mental health, emotional intelligence, medical education, and quantitative research. I use R for statistical analysis, data visualization, and reproducible scientific research.
 
 ## Research Interests
-- Machine learning in medicine
-- Infectious disease data analysis
-- Clinical text mining
-- Biomedical informatics
+- Psychology and mental health
+- Emotional intelligence and individual differences
+- Medical education
+- Narrative media, empathy, and psychological outcomes
+- Clinical and public health research
 
-## Projects
+## Skills
+- R and RStudio
+- Statistical analysis and data visualization
+- SPSS
+- Research methodology and scientific reporting
 
-### 1. Biomedical ML Classification
-Machine learning model for biomedical data prediction.
+## Current Research
+**Association of Watching Fiction with Emotional Intelligence and Its Components Among Medical Students** — Manuscript under review.
 
-### 2. Sequence Analysis Pipeline
-Bioinformatics tools for DNA/protein analysis.
+## Publications
+- [HIV-1 peptide design study (2024)](https://doi.org/10.1007/s11517-023-02950-8)
+- [SARS-CoV-2 UDA study (2022)](https://doi.org/10.1371/journal.pone.0268156)
 
-### 3. Clinical NLP Harmonization
-Text-to-structured medical terminology mapping system.
-
-### 4. Public Health Analysis
-Epidemiological statistical analysis.
-
-### 5. Data Toolkit
-Reusable Python data processing framework.
+## Academic Profiles
+- [ORCID](https://orcid.org/0000-0002-3211-6580)
+- [Google Scholar](https://scholar.google.com/citations?user=8evM2fMAAAAJ)
