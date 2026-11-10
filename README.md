@@ -4,6 +4,20 @@
 
 I am a medical doctor interested in psychology, mental health, emotional intelligence, medical education, and quantitative research. I use R for statistical analysis, data visualization, and reproducible scientific research.
 
+
+## Featured Research Project
+
+### [Film and Emotions: Positive Affect Analysis](https://github.com/Mohammad-Sabzian-Molaei/film-emotions-r-analysis)
+
+A completed, reproducible secondary analysis of the `psychTools::affect` dataset (330 observations), examining associations between film categories and changes in positive affect.
+
+**Methods:** Linear regression, baseline adjustment, HC3 robust standard errors, interaction testing, regression diagnostics, and sensitivity analysis.
+
+**Tools:** R, RStudio, psychTools, lmtest, and sandwich.
+
+The repository includes the complete R script, statistical results, research visualization, and reproducibility instructions.
+
+
 ## Research Interests
 - Psychology and mental health
 - Emotional intelligence and individual differences
